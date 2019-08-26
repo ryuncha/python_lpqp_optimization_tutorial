@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+docs/Pyomo_workshop/Pyomo-Workshop-Summer-2018.pdf
